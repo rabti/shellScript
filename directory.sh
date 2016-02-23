@@ -34,3 +34,5 @@
 > rm {absolute path of the directory}             #Note: Absolute path means path from root. Relative path means path from current directory.
 
 > rm -r {absolute path of the directory}          # For deleteing folder hierarchy. (-r) stands for recursively.
+
+# I am testing it.
