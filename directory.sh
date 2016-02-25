@@ -36,3 +36,4 @@
 > rm -r {absolute path of the directory}          # For deleteing folder hierarchy. (-r) stands for recursively.
 
 # I am testing it.
+It is too late.take rest.
